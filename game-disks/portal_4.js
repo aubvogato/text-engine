@@ -7,7 +7,7 @@ const portal_4 = () => ({
             desc: `Portal 4's room. It is rather empty except for an orb floating in the middle of the room.`,
             onLook: () => {
                 const room = getRoom('portal_4');
-                room.desc = `Your eyes are drawn to a large, shimmering orb hovering in mid-air, its surface pulsing with a warm, golden light.
+                room.desc = `As you walk in you are greeted with a faint light. Almost mesmerizing, but when you take a closer it appears to be William.
          The room around you is dimly lit, but the orb seems to fill the space with a comforting radiance.`;
             },
             items: [
